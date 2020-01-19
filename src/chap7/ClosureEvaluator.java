@@ -1,4 +1,4 @@
-// 代码清单7.14 支持闭包的语法分析器ClosureEvaluator.java
+// 代码清单7.16 支持闭包的语法分析器ClosureEvaluator.java
 package chap7;
 
 import stone.ast.ASTree;
