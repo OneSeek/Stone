@@ -1,4 +1,4 @@
-// 代码清单7.16 ClosureInterpreter.java
+// 代码清单7.17 ClosureInterpreter.java
 package chap7;
 import stone.ClosureParser;
 import stone.ParseException;
