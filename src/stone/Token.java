@@ -1,8 +1,8 @@
 package stone;
 
 public abstract class Token {                         // abstract class
-	public static final Token EOF = new Token(-1) {}; // end of file
-	public static final String EOL = "\\n";           // end of line
+	public static final Token EOF = new Token(-1) {}; // end of file 表示程序结束
+	public static final String EOL = "\\n";           // end of line 表示换行符
 	private int lineNumber;                           // token number
 
 	protected Token(int line) {
